@@ -1,0 +1,1 @@
+# japanese-translation-for-IS3-v-1.20.1-20.1.13
